@@ -4,7 +4,7 @@ from flask import current_app
 from .cas_urls import create_cas_login_url
 from .cas_urls import create_cas_logout_url
 from .cas_urls import create_cas_validate_url
-
+#hi
 
 try:
     from urllib import urlopen
